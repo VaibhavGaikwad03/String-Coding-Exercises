@@ -1,0 +1,17 @@
+char *str_cat(char *, const char *);
+char *str_chr(const char *, int);
+int str_cmp(const char *, const char *);
+int str_cmpi(const char *, const char *);
+char *str_cpy(char *, const char *);
+int str_len(const char *);
+char *str_lwr(char *);
+char *str_n_cat(char *, const char *, int);
+int str_n_cmp(const char *, const char *, int);
+int str_n_cmpi(const char *, const char *, int);
+char *str_n_cpy(char *, const char *, int);
+char *str_n_set(char *, int, int);
+char *str_rchr(const char *, int);
+char *str_rev(char *);
+char *str_set(char *, int);
+char *str_str(const char *, const char *);
+char *str_upr(char *);
