@@ -14,4 +14,4 @@ char *str_rchr(const char *, int);
 char *str_rev(char *);
 char *str_set(char *, int);
 char *str_str(const char *, const char *);
-char *str_upr(char *);
+char *str_upr(char *); 
