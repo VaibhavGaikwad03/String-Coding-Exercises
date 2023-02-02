@@ -7,7 +7,7 @@ Input2 : chance
 
 Output : 4
 
-*/
+*/ 
 
 #include <stdio.h>
 #include "stringlib.h"
