@@ -9,7 +9,7 @@ Output : 4
 
 #include <stdio.h>
 
-int CountWords(char *str)
+int CountWords(const char *str)
 {
     int iCount = 1;
 
