@@ -6,7 +6,7 @@ Input : "Marvel   lous Pyt  hon"
 Output : "MarvellousPython"
 
 */
-
+ 
 #include<stdio.h>
 
 void StrCpyRmSpaces(char *src, char *dest)
