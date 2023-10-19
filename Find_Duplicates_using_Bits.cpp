@@ -4,7 +4,7 @@ using std::cout;
 using std::cin;
 using std::endl;
 using std::getline;
-
+ 
 void print_duplicates(char* str)
 {
     int i = 0;
