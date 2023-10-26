@@ -5,7 +5,7 @@ Write a program which  accepts paragraph from the user and count number of sente
 Input : Hello! How are you? Where were you? I have been looking for all these days.
 Output : 4  15  75
 
-*/
+*/ 
 
 #include <stdio.h>
 
