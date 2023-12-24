@@ -4,7 +4,7 @@ Input1:
 decimal
 
 Input2:
-medical
+medical 
 
 Output: True
 */
